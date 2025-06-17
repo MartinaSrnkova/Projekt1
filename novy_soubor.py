@@ -1,0 +1,1 @@
+print("Nový soubor na zkoušku")
